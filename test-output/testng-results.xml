@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="27" passed="27" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-06T13:13:03 IST" name="Suite" finished-at="2024-04-06T13:13:58 IST" duration-ms="55266">
+    <groups>
+    </groups>
+    <test started-at="2024-04-06T13:13:03 IST" name="Test" finished-at="2024-04-06T13:13:58 IST" duration-ms="55266">
+      <class name="testScenario.TestScenario_03_EMICalculatorPageUIChecks">
+        <test-method signature="ValidatingLoanAmountTextBoxAndSlider()[pri:1, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:17 IST" name="ValidatingLoanAmountTextBoxAndSlider" finished-at="2024-04-06T13:13:18 IST" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingLoanAmountTextBoxAndSlider -->
+        <test-method signature="ScaleChangeForLoanAmountTextBoxAndSlider()[pri:2, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:18 IST" name="ScaleChangeForLoanAmountTextBoxAndSlider" finished-at="2024-04-06T13:13:20 IST" duration-ms="2218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScaleChangeForLoanAmountTextBoxAndSlider -->
+        <test-method signature="ValidatingInterestRateTextBoxAndSlider()[pri:3, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:21 IST" name="ValidatingInterestRateTextBoxAndSlider" finished-at="2024-04-06T13:13:21 IST" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingInterestRateTextBoxAndSlider -->
+        <test-method signature="ScaleChangeForInterestRateTextBoxAndSlider()[pri:4, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:22 IST" name="ScaleChangeForInterestRateTextBoxAndSlider" finished-at="2024-04-06T13:13:24 IST" duration-ms="2350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScaleChangeForInterestRateTextBoxAndSlider -->
+        <test-method signature="ValidatingLoanTenureTextBoxAndSlider()[pri:5, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:24 IST" name="ValidatingLoanTenureTextBoxAndSlider" finished-at="2024-04-06T13:13:25 IST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingLoanTenureTextBoxAndSlider -->
+        <test-method signature="EMICalculator_ScaleChangeForLoanTenureTextBoxAndSlider()[pri:6, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:25 IST" name="EMICalculator_ScaleChangeForLoanTenureTextBoxAndSlider" finished-at="2024-04-06T13:13:27 IST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EMICalculator_ScaleChangeForLoanTenureTextBoxAndSlider -->
+        <test-method signature="ValidatingFeesAndChargesTextBoxAndSlider()[pri:7, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:27 IST" name="ValidatingFeesAndChargesTextBoxAndSlider" finished-at="2024-04-06T13:13:28 IST" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingFeesAndChargesTextBoxAndSlider -->
+        <test-method signature="ScaleChangeForFeesAndChargesTextBoxAndSlider()[pri:8, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:28 IST" name="ScaleChangeForFeesAndChargesTextBoxAndSlider" finished-at="2024-04-06T13:13:30 IST" duration-ms="2305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScaleChangeForFeesAndChargesTextBoxAndSlider -->
+        <test-method signature="ValidationForYearAndMonthOption()[pri:9, instance:testScenario.TestScenario_03_EMICalculatorPageUIChecks@6c6cb480]" started-at="2024-04-06T13:13:31 IST" name="ValidationForYearAndMonthOption" finished-at="2024-04-06T13:13:31 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationForYearAndMonthOption -->
+      </class> <!-- testScenario.TestScenario_03_EMICalculatorPageUIChecks -->
+      <class name="testScenario.TestScenario_01_EnteringRequiredValuesInHomePage">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testScenario.TestScenario_01_EnteringRequiredValuesInHomePage@4afcd809]" started-at="2024-04-06T13:13:03 IST" name="setUp" finished-at="2024-04-06T13:13:08 IST" duration-ms="5084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="enterRequiredValuesInHomePage()[pri:0, instance:testScenario.TestScenario_01_EnteringRequiredValuesInHomePage@4afcd809]" started-at="2024-04-06T13:13:08 IST" name="enterRequiredValuesInHomePage" finished-at="2024-04-06T13:13:10 IST" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterRequiredValuesInHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScenario.TestScenario_01_EnteringRequiredValuesInHomePage@4afcd809]" started-at="2024-04-06T13:13:57 IST" name="tearDown" finished-at="2024-04-06T13:13:58 IST" duration-ms="1667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScenario.TestScenario_01_EnteringRequiredValuesInHomePage -->
+      <class name="testScenario.TestScenario_02_EMIPaymentTable2425">
+        <test-method signature="emiPaymentTable2425()[pri:1, instance:testScenario.TestScenario_02_EMIPaymentTable2425@408d971b]" started-at="2024-04-06T13:13:10 IST" name="emiPaymentTable2425" finished-at="2024-04-06T13:13:11 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emiPaymentTable2425 -->
+        <test-method signature="YearTableInExcel()[pri:2, instance:testScenario.TestScenario_02_EMIPaymentTable2425@408d971b]" started-at="2024-04-06T13:13:12 IST" name="YearTableInExcel" finished-at="2024-04-06T13:13:17 IST" duration-ms="5109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YearTableInExcel -->
+      </class> <!-- testScenario.TestScenario_02_EMIPaymentTable2425 -->
+      <class name="testScenario.TestScenario_05_LoanTenureUIChecks">
+        <test-method signature="validateDataFlowBetweenInterestRateSliderAndTextBox()[pri:0, instance:testScenario.TestScenario_05_LoanTenureUIChecks@c730b35]" started-at="2024-04-06T13:13:46 IST" name="validateDataFlowBetweenInterestRateSliderAndTextBox" finished-at="2024-04-06T13:13:47 IST" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDataFlowBetweenInterestRateSliderAndTextBox -->
+        <test-method signature="validateFeesAndChargesTextBoxAndSlider()[pri:0, instance:testScenario.TestScenario_05_LoanTenureUIChecks@c730b35]" started-at="2024-04-06T13:13:48 IST" name="validateFeesAndChargesTextBoxAndSlider" finished-at="2024-04-06T13:13:49 IST" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFeesAndChargesTextBoxAndSlider -->
+        <test-method signature="validateInterestRateTextBoxAndSlider()[pri:0, instance:testScenario.TestScenario_05_LoanTenureUIChecks@c730b35]" started-at="2024-04-06T13:13:49 IST" name="validateInterestRateTextBoxAndSlider" finished-at="2024-04-06T13:13:50 IST" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInterestRateTextBoxAndSlider -->
+        <test-method signature="validateLoanAmountTextBoxAndSlider()[pri:0, instance:testScenario.TestScenario_05_LoanTenureUIChecks@c730b35]" started-at="2024-04-06T13:13:50 IST" name="validateLoanAmountTextBoxAndSlider" finished-at="2024-04-06T13:13:52 IST" duration-ms="1389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoanAmountTextBoxAndSlider -->
+        <test-method signature="validatingDataFlowBetweenFeesAndChargesSliderAndTextBox()[pri:0, instance:testScenario.TestScenario_05_LoanTenureUIChecks@c730b35]" started-at="2024-04-06T13:13:52 IST" name="validatingDataFlowBetweenFeesAndChargesSliderAndTextBox" finished-at="2024-04-06T13:13:53 IST" duration-ms="1422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingDataFlowBetweenFeesAndChargesSliderAndTextBox -->
+        <test-method signature="validatingDataFlowBetweenLoanAmountSliderAndTextBox()[pri:0, instance:testScenario.TestScenario_05_LoanTenureUIChecks@c730b35]" started-at="2024-04-06T13:13:54 IST" name="validatingDataFlowBetweenLoanAmountSliderAndTextBox" finished-at="2024-04-06T13:13:56 IST" duration-ms="2109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingDataFlowBetweenLoanAmountSliderAndTextBox -->
+        <test-method signature="validatingEMITextBoxAndSlider()[pri:0, instance:testScenario.TestScenario_05_LoanTenureUIChecks@c730b35]" started-at="2024-04-06T13:13:56 IST" name="validatingEMITextBoxAndSlider" finished-at="2024-04-06T13:13:56 IST" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingEMITextBoxAndSlider -->
+      </class> <!-- testScenario.TestScenario_05_LoanTenureUIChecks -->
+      <class name="testScenario.TestScenario_04_LoanAmtCalculatorUIChecks">
+        <test-method signature="LoanAmtCalculator_ValidatingEMITextBoxAndSlider()[pri:1, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:31 IST" name="LoanAmtCalculator_ValidatingEMITextBoxAndSlider" finished-at="2024-04-06T13:13:33 IST" duration-ms="1329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanAmtCalculator_ValidatingEMITextBoxAndSlider -->
+        <test-method signature="LoanAmtCalculator_ValidatingInterestRateTextBoxAndSlider()[pri:2, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:33 IST" name="LoanAmtCalculator_ValidatingInterestRateTextBoxAndSlider" finished-at="2024-04-06T13:13:34 IST" duration-ms="1410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanAmtCalculator_ValidatingInterestRateTextBoxAndSlider -->
+        <test-method signature="LoanAmtCalculator_ScaleChangeForInterestRateTextBoxAndSlider()[pri:3, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:34 IST" name="LoanAmtCalculator_ScaleChangeForInterestRateTextBoxAndSlider" finished-at="2024-04-06T13:13:37 IST" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoanAmtCalculator_ScaleChangeForInterestRateTextBoxAndSlider -->
+        <test-method signature="validateLoanTenureTextBoxAndSlider()[pri:4, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:37 IST" name="validateLoanTenureTextBoxAndSlider" finished-at="2024-04-06T13:13:38 IST" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoanTenureTextBoxAndSlider -->
+        <test-method signature="validatingDataFlowBetweenLoanTenureSliderAndTextBox()[pri:5, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:38 IST" name="validatingDataFlowBetweenLoanTenureSliderAndTextBox" finished-at="2024-04-06T13:13:40 IST" duration-ms="2069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingDataFlowBetweenLoanTenureSliderAndTextBox -->
+        <test-method signature="validateFeesAndChargesTextBoxAndSlider()[pri:6, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:40 IST" name="validateFeesAndChargesTextBoxAndSlider" finished-at="2024-04-06T13:13:42 IST" duration-ms="1776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFeesAndChargesTextBoxAndSlider -->
+        <test-method signature="validatingDataFlowBetweenYearAndMonthButton()[pri:7, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:42 IST" name="validatingDataFlowBetweenYearAndMonthButton" finished-at="2024-04-06T13:13:43 IST" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingDataFlowBetweenYearAndMonthButton -->
+        <test-method signature="validatingDataFlowBetweenFeesAndChargesSliderAndTextBox()[pri:8, instance:testScenario.TestScenario_04_LoanAmtCalculatorUIChecks@3c46e67a]" started-at="2024-04-06T13:13:43 IST" name="validatingDataFlowBetweenFeesAndChargesSliderAndTextBox" finished-at="2024-04-06T13:13:45 IST" duration-ms="2134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingDataFlowBetweenFeesAndChargesSliderAndTextBox -->
+      </class> <!-- testScenario.TestScenario_04_LoanAmtCalculatorUIChecks -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
